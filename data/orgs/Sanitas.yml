@@ -1,10 +1,12 @@
 name: Sanitas Grundversicherungen AG
 address: |-
-  Sanitas Grundversicherungen AG
   Jägergasse 3
-  Postfach 2010
-  8021 Zürich
+  8004 Zürich
 sources:
   address: https://www.sanitas.com/de/ueber-sanitas/rechtlicher-hinweis/impressum.html
-  privacyStatement: 
+  privacyStatement:
     - https://www.sanitas.com/de/ueber-sanitas/rechtlicher-hinweis.html
+history:
+  - action: updated
+    date: 2025-07-19T19:21:32.532000+02:00
+    reason: "LLM: "
