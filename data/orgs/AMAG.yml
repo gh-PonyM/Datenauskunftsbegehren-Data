@@ -12,6 +12,7 @@ sources:
   privacyStatement: https://www.amag-group.ch/de/footer/datenschutzerklaerung.html
 history:
   - action: updated
-    date: 2025-07-19T18:25:47.675000+02:00
+    date: 2025-07-19T18:29:18.601000+02:00
     reason: "LLM: Updated address from url source
-      https://www.amag-group.ch/de/footer/datenschutzerklaerung.html because "
+      https://www.amag-group.ch/de/footer/datenschutzerklaerung.html because the
+      old address was outdated and this is the most recent information."
