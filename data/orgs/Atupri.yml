@@ -1,10 +1,14 @@
 name: Atupri
 address: |-
-  Atupri Gesundheitsversicherung
-  Zieglerstrasse 29
-  Postfach
+  Atupri Gesundheitsversicherung AG
+  Unternehmens- und Marketingkommunikation
+  Laupenstrasse 18
   3001 Bern
 sources:
   address: https://www.atupri.ch/de/impressum
-  privacyStatement: 
+  privacyStatement:
     - https://www.atupri.ch/de/rechtliches
+history:
+  - action: updated
+    date: 2025-07-19T19:55:02.274000+02:00
+    reason: "LLM: "
