@@ -1,14 +1,16 @@
 name: Zürcher Kantonalbank ZKB
 address: |-
   Zürcher Kantonalbank
-  Sitz Zürich
-  Bahnhofstrasse 9
-  8001 Zürich
+  Legal & Compliance
+  Datenschutz
+  Alte Steinhauserstrasse 12
+  6330 Cham
 privacyStatement:
   paragraphs:
-    - 'Unter personenbezogene Daten sind insbesondere auch die folgenden in Ihrer
-      Datenschutzerklärung vom {string:privacyStatementDate} aufgeführten Kategorien,
-      resp. Bearbeitungen von Daten zur Person und zur Kundenaktivität zu verstehen:'
+    - "Unter personenbezogene Daten sind insbesondere auch die folgenden in
+      Ihrer Datenschutzerklärung vom {string:privacyStatementDate} aufgeführten
+      Kategorien, resp. Bearbeitungen von Daten zur Person und zur
+      Kundenaktivität zu verstehen:"
   variables:
     privacyStatementDate: Mai 2018
   bullets:
@@ -20,5 +22,12 @@ privacyStatement:
     - Technische Daten
 sources:
   address: https://www.zkb.ch/de/gs/rechtliche-hinweise/datenschutz/datenschutzerklaerung.html
-  privacyStatement: 
+  privacyStatement:
     - https://www.zkb.ch/de/gs/rechtliche-hinweise/datenschutz/datenschutzerklaerung.html
+history:
+  - action: updated
+    date: 2025-07-19T19:34:28.109000+02:00
+    reason: "LLM: Updated address from url source
+      https://www.zkb.ch/de/gs/rechtliche-hinweise/datenschutz/datenschutzerkla\
+      erung.html because the old address was Bahnhofstrasse 9, 8001 Zürich and
+      this is the most recent address from the company website."
