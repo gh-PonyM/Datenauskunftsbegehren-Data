@@ -1,5 +1,6 @@
 name: Sanitas Grundversicherungen AG
 address: |-
+  Sanitas Grundversicherungen AG
   Jägergasse 3
   8004 Zürich
 sources:
@@ -8,5 +9,8 @@ sources:
     - https://www.sanitas.com/de/ueber-sanitas/rechtlicher-hinweis.html
 history:
   - action: updated
-    date: 2025-07-19T19:39:38.028000+02:00
-    reason: "LLM: "
+    date: 2025-07-19T19:48:46.129000+02:00
+    reason: "LLM: Updated address from url source
+      https://www.sanitas.com/de/ueber-sanitas/rechtlicher-hinweis/impressum.ht\
+      ml because the correct mailing address is now listed as Jägergasse 3, 8004
+      Zürich."
