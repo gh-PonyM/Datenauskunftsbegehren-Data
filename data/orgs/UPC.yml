@@ -1,15 +1,17 @@
 name: UPC
 address: |-
-  UPC Schweiz GmbH
-  Postfach
-  8021 Zürich
+  Sunrise UPC GmbH
+  Thurgauerstrasse 101B
+  8152 Glattpark
+  Schweiz
 types:
   - mobile
 privacyStatement:
   paragraphs:
-    - 'Unter Personendaten sind insbesondere auch die folgenden in Ihrer Datenschutzerklärung
-      vom {string:privacyStatementDate} aufgeführten Kategorien, resp. Bearbeitungen
-      von Daten zur Person und zur Kundenaktivität zu verstehen:'
+    - "Unter Personendaten sind insbesondere auch die folgenden in Ihrer
+      Datenschutzerklärung vom {string:privacyStatementDate} aufgeführten
+      Kategorien, resp. Bearbeitungen von Daten zur Person und zur
+      Kundenaktivität zu verstehen:"
   variables:
     privacyStatementDate: Februar 2016
   bullets:
@@ -22,5 +24,11 @@ privacyStatement:
     - Sonstige Personendaten
 sources:
   address: https://www.upc.ch/de/support/form/impressum/
-  privacyStatement: 
+  privacyStatement:
     - https://www.upc.ch/de/allgemeine-geschaeftsbedingungen/datenschutz/
+history:
+  - action: updated
+    date: 2025-07-19T18:07:03.931000+02:00
+    reason: 'LLM: Updated address from url source
+      https://www.upc.ch/de/support/form/impressum/ because "UPC Schweiz GmbH
+      Postfach 8021 Zürich"'
