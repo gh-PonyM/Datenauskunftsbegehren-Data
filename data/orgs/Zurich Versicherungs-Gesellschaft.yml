@@ -1,10 +1,15 @@
 name: Zürich Versicherungs-Gesellschaft
 address: |-
-  Zürich Versicherungs-Gesellschaft AG
-  Datenschutz
+  Zürcher Kantonalbank
+  Data Office
   Postfach
-  CH 8085 Zürich
+  8010 Zürich
 sources:
   address: https://www.zurich.ch/de/datenschutz
-  privacyStatement: 
+  privacyStatement:
     - https://www.zurich.ch/de/datenschutz
+history:
+  - action: updated
+    date: 2025-07-21T14:31:59.325000+02:00
+    reason: "LLM: The new address is located at Data Office, which handles personal
+      data matters as indicated in the 'Rechte' section."

@@ -1,10 +1,17 @@
 name: Mercedes
 address: |-
   Mercedes-Benz Schweiz AG
-  Bernstrasse 55
-  8952 Schlieren
+  Alte Steinhauserstrasse 12
+  6330 Cham
 types:
   - mobility
 sources:
   address: https://www.mercedes-benz.ch/de/passengercars/content-pool/tool-pages/legal/privacy-statement.html
   privacyStatement: https://www.mercedes-benz.ch/de/passengercars/content-pool/tool-pages/legal/privacy-statement.html
+history:
+  - action: updated
+    date: 2025-07-19T20:05:11.644000+02:00
+    reason: "LLM: Updated address from url source
+      https://www.mercedes-benz.ch/de/passengercars/content-pool/tool-pages/leg\
+      al/privacy-statement.html because The new address contains keywords
+      related to data privacy and legal compliance."
